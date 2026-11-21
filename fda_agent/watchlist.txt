@@ -1,0 +1,3 @@
+# One entry per line: ticker, company, or asset name. Matches always appear in the digest.
+# Lines starting with # are ignored. Keep sensitive positions out of a public repo;
+# the scheduled task's prompt can carry a private watchlist instead.
